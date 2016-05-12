@@ -8,7 +8,7 @@ s.authors = { 'Firstname Lastname' => 'mail@mail.com' }
 s.source = { :git => 'git@bitbucket.org:nixpeak/peaksdk.git' }
 s.requires_arc = true
 s.platform = :ios, '7.0'
-s.vendored_frameworks = 'Specs/PeakSDK/0.0.60/PeakSDK.framework'
+s.vendored_frameworks = 'Specs/PeakSDK/0.0.1/PeakSDK.framework'
 s.resources = 'Specs/PeakSDK/1.0.0/UnityAds.bundle', 'Specs/PeakSDK/1.0.0/PeakBundle.bundle'
 s.libraries = 'z'
 s.frameworks = 'AdSupport', 'AudioToolbox', 'AVFoundation', 'CFNetwork', 'CoreFoundation', 'CoreGraphics', 'CoreLocation', 'CoreMedia', 'CoreTelephony', 'EventKit', 'MediaPlayer', 'MessageUI', 'MobileCoreServices', 'Security', 'Social', 'StoreKit', 'SystemConfiguration', 'UIKit', 'QuartzCore', 'WebKit'
