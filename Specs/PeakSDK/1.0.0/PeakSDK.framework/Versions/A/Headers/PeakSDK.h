@@ -15,8 +15,6 @@
 @protocol PeakSDKDelegate<NSObject>
 @optional
 
-/** @name Initialization success */
-
 /**
  * Notifies your app that initialization has succeeded.
  */
